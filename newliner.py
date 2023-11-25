@@ -1,5 +1,4 @@
 import sys
-import io
 import os
 
 def print_usage():
